@@ -4,7 +4,7 @@
 This project performs an in-depth analysis of NYC yellow taxi trip data to uncover patterns and insights related to trip durations, fare amounts, peak hours, and popular pickup and drop-off locations. The analysis was conducted using PySpark on Databricks to efficiently process and analyze large datasets.
 
 ## Dataset
-- **Source**: NYC Yellow Taxi Trip Data (January 2015)
+- **Source**: [NYC Yellow Taxi Trip Data (January 2015) on Kaggle](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
 - **Description**: This dataset includes various details about yellow taxi trips, such as pickup and drop-off times, trip distances, fare amounts, passenger counts, and pickup and drop-off locations.
 - **Key Columns**:
   - `tpep_pickup_datetime` & `tpep_dropoff_datetime`: Timestamps of when the trip started and ended
@@ -38,8 +38,8 @@ This project performs an in-depth analysis of NYC yellow taxi trip data to uncov
 3. Run each code cell in sequence to perform the analysis.
 
 ## Project Structure
-- `CP422 - A1 - G17.ipynb`: Jupyter Notebook with the complete analysis and visualizations.
-- `CP422 - A1 - G17` - Databricks.pdf: PDF version of the notebook for quick reference.
+- `NYC-Taxi-Data-Analysis.ipynb`: Jupyter Notebook with the complete analysis and visualizations.
+- `NYC-Taxi-Data-Analysis` - Databricks.pdf: PDF version of the notebook for quick reference.
 - `README.md`: Project overview and instructions.
 
 ## Summary of Findings
