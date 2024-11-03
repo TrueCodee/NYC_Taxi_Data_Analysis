@@ -38,9 +38,9 @@ This project performs an in-depth analysis of NYC yellow taxi trip data to uncov
 3. Run each code cell in sequence to perform the analysis.
 
 ## Project Structure
-- CP422 - A1 - G17.ipynb: Jupyter Notebook with the complete analysis and visualizations.
-- CP422 - A1 - G17 - Databricks.pdf: PDF version of the notebook for quick reference.
-- README.md: Project overview and instructions.
+- `CP422 - A1 - G17.ipynb`: Jupyter Notebook with the complete analysis and visualizations.
+- `CP422 - A1 - G17` - Databricks.pdf: PDF version of the notebook for quick reference.
+- `README.md`: Project overview and instructions.
 
 ## Summary of Findings
 - **Average Fare by Hour:** Fares tend to be higher in the early morning hours (4-6 AM), with the lowest fares around 7 PM, likely due to competition during peak demand times.
