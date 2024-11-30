@@ -34,7 +34,7 @@ This project performs an in-depth analysis of NYC yellow taxi trip data to uncov
 1. Clone this repository:
    ```bash
    git clone https://github.com/TrueCodee/NYC-Taxi-Data-Analysis.git
-2. Upload CP422 - A1 - G17.ipynb to Databricks or open it in your local Jupyter environment.
+2. Upload nyc-taxi-data-analysis.ipynb to Databricks or open it in your local Jupyter environment.
 3. Run each code cell in sequence to perform the analysis.
 
 ## Project Structure
